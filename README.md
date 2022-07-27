@@ -15,6 +15,8 @@
 
 **My soft skills**
 
+[Contact me](https://t.me/Anna_Shelyakina)
+
 
 
 
