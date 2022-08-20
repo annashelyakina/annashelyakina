@@ -8,6 +8,7 @@
 * [Git](https://software-testing.ru/edu/3-online/270-git) [certificate](http://cert.software-testing.ru/338434069805138505) year 2022
 * [Adb](https://software-testing.ru/edu/3-online/267-adb) [certificate](http://cert.software-testing.ru/339084864433160779) year 2022
 * [Docker](https://software-testing.ru/edu/3-online/314-docker) [certificate](http://cert.software-testing.ru/339084808198029899) year 2022
+* [Course by Vadim Ksendzov 31 group](https://ksendzov.com/) in progress
 * [Chrome DevTools]() not started yet
 
 
